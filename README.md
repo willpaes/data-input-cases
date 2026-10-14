@@ -1,4 +1,4 @@
-# JavaScript Upper Lower String ✨
+# JavaScript Data Input Cases ✨
 
 ## Description
 
@@ -44,15 +44,15 @@ https://nodejs.org/
 
 Clone the repository:
 
-git clone https://github.com/willpaes/upper-lower-string
+git clone https://github.com/willpaes/data-input-cases
 
 Navigate to the project folder:
 
-cd upper-lower-string
+cd data-input-cases
 
 Run the JavaScript file:
 
-node upper-lower-string.js
+node data-input.js
 
 ## Features
 
