@@ -50,7 +50,7 @@ Navigate to the project folder:
 
 cd data-input-cases
 
-Run the JavaScript file:
+### Run the JavaScript file:
 
 node data-input.js
 
@@ -63,7 +63,7 @@ node data-input.js
 - ✅ Demonstrate text formatting techniques;
 - ✅ Beginner-friendly examples with console output.
 
-## Technologies Used
+### Technologies Used
 
 - JavaScript (ES6+)
 - Node.js
